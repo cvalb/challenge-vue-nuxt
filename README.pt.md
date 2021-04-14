@@ -36,3 +36,4 @@ Desafio completo
 ### Possiveis implementações
 
 - Carregar mais dados de encontros próximos no modal de Neo;
+- Lidar com as respostas de erro da API;

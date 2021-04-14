@@ -35,3 +35,4 @@ Challenge completion.
 ### Possible implementations
 
 - Load more close approach calculations when opening the Neo modal;
+- Deal with API fetching errors;
