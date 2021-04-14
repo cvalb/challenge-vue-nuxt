@@ -31,7 +31,7 @@ O objetivo do desafio era criar uma página responsiva, usando pelo menos 5 comp
 
 ## 1.0
 
-Desafio completo
+Prazo do desafio
 
 ### Possiveis implementações
 

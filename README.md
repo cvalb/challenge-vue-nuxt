@@ -30,7 +30,7 @@ The challenge's objective was to create a responsive page, using at least 5 comp
 
 ## 1.0
 
-Challenge completion.
+Challenge deadline.
 
 ### Possible implementations
 
